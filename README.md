@@ -36,3 +36,13 @@ This resume generator analyzes a candidate's existing resume and the target job 
 
 ---
 
+## 📈 Future Enhancements
+
+- 🧠 Resume Fit Score (ML-based)
+
+- 🌐 Web UI using Streamlit or Flask
+
+- 🔒 Privacy-preserving resume processing
+
+- 🌍 Multilingual support
+
